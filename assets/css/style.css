@@ -240,14 +240,17 @@ button {
 *********************/
 .bg-color--keycolor {
   background-color: #1e2361;
+  color: #00c5cc;
 }
 
 .bg-color--subcolor {
   background-color: #1e2361;
+  color: #00c5cc;
 }
 
 .bg-color--gray {
   background-color: #1e2361;
+  color: #00c5cc;
 }
 
 /*********************
